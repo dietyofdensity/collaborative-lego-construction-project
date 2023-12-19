@@ -9,4 +9,6 @@ scripts
   
 recepie generatior
   contains the assets and scenes used in the unity project which is used to creates custom lego structures and generate user manuals.
-  
+
+the full repository containing all the code produced during the project can be found in the folowing github repository
+https://github.com/tnje22/P3 
