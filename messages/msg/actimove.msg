@@ -1,0 +1,4 @@
+custom_msg_python/blockdata block
+float32 humanprio
+float32 poscertainty
+float32 stabilety
